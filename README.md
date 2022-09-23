@@ -41,3 +41,5 @@ e. Eventos
 f. Métodos del DOM HTML
 g. Async/Await o .then().catch
 h. localStorage
+![image](https://user-images.githubusercontent.com/55018040/191890941-bbfbf766-cdc2-4177-ae14-fd8ce4435b28.png)
+
